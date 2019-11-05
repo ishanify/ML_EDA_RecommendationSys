@@ -1,5 +1,5 @@
 # Recommendation Sys using MovieLens Data set
-Project on eCommerce recommender system using the Movie Lens data set. Using machine learning algorithms, the system should be able to recommend a list of items to the user based on the reviews provided by other users, product descriptions and user's own history.
+Project on eCommerce recommender system using the Movie Lens data set. Using machine learning algorithms, the system should be able to recommend a list of items to the user based on the reviews provided by other users, product descriptions and user's own history. Python is used for this purpose.
 
 [Exploratory Data Analysis](/EDA_and_Cleaning.ipynb) is done to understand the data set. Histograms, boxplots, scatterplots are created. Statistical analysis is performed and detailed descriptive analysis is performed.
 Missing values & outliers are identified and dealt with appropriately.
