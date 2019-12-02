@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Description : Item-based Collaborative filtering.
+Description : Item-based Collaborative filtering
 """
 import collections
 from operator import itemgetter
