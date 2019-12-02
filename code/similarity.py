@@ -1,8 +1,7 @@
 # -*- coding = utf-8 -*-
 """
 Calculate user similarity matrix.
-Created on 2018-04-15
-@author: fuxuemingzhu
+
 """
 import collections
 

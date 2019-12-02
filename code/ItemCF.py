@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: fuxuemingzhu 
-@site: www.fuxuemingzhu.cn
-@file: ItemCF.py
-@time: 18-4-16 下午6:17
 Description : Item-based Collaborative filtering.
 """
 import collections

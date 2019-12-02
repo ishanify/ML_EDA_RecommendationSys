@@ -1,8 +1,7 @@
 # -*- coding = utf-8 -*-
 """
 Utils in order to simplify coding.
-Created on 2018-04-16
-@author: fuxuemingzhu
+
 """
 import time
 import pickle
